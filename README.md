@@ -54,4 +54,3 @@
 2. ***Then `Go-to Whatapp>Three dots>Linked Devices`***
 3.  ***Click [`FORK`](https://github.com/HyHamza/BYTE-MD/fork) and `Star ⭐ Repository` for Courage.***
 4.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/HyHamza/BYTE-MD)***
-5.  
