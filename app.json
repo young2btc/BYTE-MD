@@ -1,6 +1,6 @@
 {
-  "name": "BYTE",
-  "description": "BYTE made for people on Earth",
+  "name": "BYTE-MD",
+  "description": "BYTE-MD made for people on Earth",
   "logo": "https://raw.githubusercontent.com/HyHamza/HyHamza/refs/heads/main/Images/XByte-logo.png",
   "keywords": ["bot"],
   "success_url": "/",
