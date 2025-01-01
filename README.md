@@ -8,7 +8,8 @@
     
 
 <p align="center">
-  <a href="https://wa.me/+92307238038?text=Hey Hamza" target="_blank">
+ <h2>WhatsApp channel</h2>
+  <a href="https://whatsapp.com/channel/0029VaNRcHSJP2199iMQ4W0l" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
 
