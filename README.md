@@ -23,7 +23,7 @@
 
     
 
-1.  [`PARING CODE`](https://byte-session.vercel.app/))
+1. Link your WhatsApp by [`PAIR CODE`](https://session.talkdrove.com/)
 2. ***Then `Go-to Whatapp>Three dots>Linked Devices`***
 3.  ***Click [`FORK`](https://github.com/HyHamza/BYTE-MD/fork) and `Star ⭐ Repository` for Courage.***
-4.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/HyHamza/BYTE-MD)***
+4.  ***Deploy on [`TalkDrove`](https://talkdrove.com/share-bot/69)***
