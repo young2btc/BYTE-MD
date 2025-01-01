@@ -25,9 +25,8 @@
     
 
 1. Link your WhatsApp by [`PAIR CODE`](https://session.talkdrove.com/)
-2. ***Then `Go-to Whatapp>Three dots>Linked Devices`***
-3.  ***Click [`FORK`](https://github.com/HyHamza/BYTE-MD/fork) and `Star ⭐ Repository` for Courage.***
-4.  ***Deploy on [`TalkDrove`](https://talkdrove.com/share-bot/69)***
+2. ***Then `Go to Whatapp > Three dots > Linked Devices`***
+3.  ***Deploy on [`TalkDrove`](https://talkdrove.com/share-bot/69)***
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
